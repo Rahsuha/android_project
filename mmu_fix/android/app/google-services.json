@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695748186376",
+    "project_id": "passengerapp-9812f",
+    "storage_bucket": "passengerapp-9812f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695748186376:android:069050ffb79d96709b9cbd",
+        "android_client_info": {
+          "package_name": "com.example.mmu_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmK0oEG7RkNPNMuSCDasOZwvcGcXhie3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695748186376:android:fc47c97b4ef673749b9cbd",
+        "android_client_info": {
+          "package_name": "com.example.passenger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmK0oEG7RkNPNMuSCDasOZwvcGcXhie3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
